@@ -24,7 +24,7 @@
       "rating": null
     },
     "parse-ms": {
-      "completed": false,
+      "completed": true,
       "rating": null
     },
     "round-to": {
@@ -52,7 +52,7 @@
       "rating": null
     },
     "throw-errors": {
-      "completed": false,
+      "completed": true,
       "rating": null
     }
   }
