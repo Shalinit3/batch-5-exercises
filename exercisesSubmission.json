@@ -12,7 +12,7 @@
       "rating": null
     },
     "json-parse": {
-      "completed": false,
+      "completed": true,
       "rating": null
     },
     "lowercase-keys": {
