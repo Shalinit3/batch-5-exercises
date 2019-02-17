@@ -20,7 +20,7 @@
       "rating": null
     },
     "counter": {
-      "completed": false,
+      "completed": true,
       "rating": null
     },
     "counter-factory": {
