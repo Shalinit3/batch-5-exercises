@@ -1,8 +1,12 @@
+class Instructor {
+  constructor() {
+    this.name = 'default';
+  }
 
-function instructor(...args) {
-  return args;
+  sayHi() {
+    this.name = 'Ram';
+  }
 }
 
-export {
-  instructor,
-};
+const instructor = new Instructor();
+export { instructor };

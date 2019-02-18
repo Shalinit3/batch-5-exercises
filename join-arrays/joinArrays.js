@@ -1,6 +1,6 @@
 
-function joinArrays(...args) {
-  return args;
+function joinArrays(...array) {
+  return array.reduce((acc, value) => [...acc, ...value], []);
 }
 
 export {
